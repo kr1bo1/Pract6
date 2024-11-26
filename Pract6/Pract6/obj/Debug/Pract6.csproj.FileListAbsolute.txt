@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\Pract6\Pract6\bin\Debug\Pract6.exe.config
+C:\Users\krist\source\repos\Pract6\Pract6\bin\Debug\Pract6.exe
+C:\Users\krist\source\repos\Pract6\Pract6\bin\Debug\Pract6.pdb
+C:\Users\krist\source\repos\Pract6\Pract6\obj\Debug\Pract6.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Pract6\Pract6\obj\Debug\Pract6.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Pract6\Pract6\obj\Debug\Pract6.exe
+C:\Users\krist\source\repos\Pract6\Pract6\obj\Debug\Pract6.pdb
